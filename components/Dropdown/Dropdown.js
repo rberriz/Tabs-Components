@@ -1,7 +1,7 @@
 class Dropdown {
   constructor(element) {
     
-    // Assign this.element to the dropdown element
+    // Assign this.element to the dropdown elementt
     this.element;
     
     // Get the element with the ".dropdown-button" class found in the dropdown element (look at the HTML for context)
